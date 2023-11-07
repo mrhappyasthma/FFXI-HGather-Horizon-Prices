@@ -25,6 +25,7 @@ chunk of mythril ore:1000
 chunk of orichalcum ore:7500
 chunk of platinum ore:4900
 chunk of rock salt:40
+chunk of silver ore:123
 chunk of tin ore:40
 chunk of zinc ore:150
 clump of moko grass:123
@@ -61,6 +62,7 @@ green rock:123
 gysahl greens:62
 handful of fish scales:123
 handful of pugil scales:123
+handful of wyvern scales:123
 hard-boiled egg:123
 high-quality crab shell:123
 high-quality pugil scales:123
@@ -116,7 +118,6 @@ seashell:123
 shall shell:123
 shell bug:123
 silver beastcoin:123
-silver ore:123
 sleepshroom:123
 soft-boiled egg:123
 spider web:123
@@ -139,7 +140,6 @@ wind cluster:1200
 wind crystal:65
 wind ore:305000
 woozyshroom:123
-wyvern scales:123
 yagudo feather:123
 yellow ginseng:123
 yellow rock:123
