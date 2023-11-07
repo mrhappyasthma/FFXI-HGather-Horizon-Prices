@@ -9,8 +9,8 @@ beastcoin:123
 bird egg:123
 bird feather:123
 black chocobo feather:123
-black rock:123
-blue rock:123
+black rock:500
+blue rock:1000
 bone chip:123
 cactus stems:123
 chamomile:123
@@ -25,7 +25,7 @@ chunk of mythril ore:1000
 chunk of orichalcum ore:7500
 chunk of platinum ore:4900
 chunk of rock salt:40
-chunk of silver ore:123
+chunk of silver ore:500
 chunk of tin ore:40
 chunk of zinc ore:150
 clump of moko grass:123
@@ -56,9 +56,9 @@ giant bird feather:123
 giant bird plume:123
 giant femur:123
 ginger:123
-gold beastcoin:123
+gold beastcoin:1900
 grain seeds:123
-green rock:123
+green rock:500
 gysahl greens:62
 handful of fish scales:123
 handful of pugil scales:123
@@ -105,10 +105,10 @@ pinch of dried marjoram:123
 pine nuts:123
 platinum beastcoin:123
 puffball:123
-purple rock:123
+purple rock:700
 red jar:0
 red moko grass:123
-red rock:123
+red rock:900
 reishi mushroom:123
 ronfaure chestnut:123
 rosewood log:1400
@@ -126,14 +126,14 @@ sprig of papaka grass:123
 sprig of sage:123
 stick of cinnamon:123
 titanictus shell:123
-translucent rock:123
+translucent rock:400
 tree cuttings:123
 turtle shell:123
 vegetable seeds:123
 water cluster:500
 water crystal:40
 water ore:300000
-white rock:123
+white rock:500
 wildgrass seeds:123
 willow log:50
 wind cluster:1200
@@ -142,5 +142,5 @@ wind ore:305000
 woozyshroom:123
 yagudo feather:123
 yellow ginseng:123
-yellow rock:123
+yellow rock:500
 yew log:130
