@@ -93,7 +93,6 @@ mushroom locust:123
 mythril beastcoin:123
 napa:123
 oak log:2400
-orichalcum ore:123
 pebble:1
 pephredo hive chip:123
 petrified log:3300
