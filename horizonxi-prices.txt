@@ -3,15 +3,15 @@ aluminum ore:10100
 ancient lumber:4500
 arrowwood log:25
 ash log:30
-bag of herb seeds:123
-ball of saruta cotton:123
-beastcoin:123
+bag of herb seeds:50
+ball of saruta cotton:150
+beastcoin:60
 bird egg:123
 bird feather:123
 black chocobo feather:123
 black rock:500
 blue rock:1000
-bone chip:123
+bone chip:30
 cactus stems:123
 chamomile:123
 chestnut log:1600
@@ -38,9 +38,9 @@ dark cluster:4000
 dark crystal:300
 dark ore:190000
 deathball:123
-demon horn:123
-demon skull:123
-dragon scales:123
+demon horn:10000
+demon skull:35000
+dragon scales:18000
 dryad root:123
 earth cluster:1000
 earth crystal:50
@@ -51,13 +51,13 @@ fire cluster:1800s
 fire crystal:40
 fire ore:250000
 flint stone:123
-fruit seeds:123
+fruit seeds:50
 giant bird feather:123
 giant bird plume:123
-giant femur:123
+giant femur:400
 ginger:123
 gold beastcoin:1900
-grain seeds:123
+grain seeds:400
 green rock:500
 gysahl greens:62
 handful of fish scales:123
@@ -90,7 +90,7 @@ lugworm:123
 mahogany log:6000
 maple log:30
 mushroom locust:123
-mythril beastcoin:123
+mythril beastcoin:1000
 napa:123
 oak log:2400
 pebble:1
@@ -102,7 +102,7 @@ pie dough:123
 piece of rattan lumber:100
 pinch of dried marjoram:123
 pine nuts:123
-platinum beastcoin:123
+platinum beastcoin:5000
 puffball:123
 purple rock:700
 red jar:0
@@ -125,10 +125,10 @@ sprig of papaka grass:123
 sprig of sage:123
 stick of cinnamon:123
 titanictus shell:123
-translucent rock:400
-tree cuttings:123
-turtle shell:123
-vegetable seeds:123
+titanictus shell:1600
+tree cuttings:2000
+turtle shell:1000
+vegetable seeds:70
 water cluster:500
 water crystal:40
 water ore:300000
